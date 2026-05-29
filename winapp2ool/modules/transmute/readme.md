@@ -631,7 +631,7 @@ FileKey8=%LocalAppData%\Packages\TheBrowserCompany.Arc_ttt1ap7aakyb4\LocalCache\
 
 #
 
-### [Example 5: Remove Keys By Name(#example-5-remove-keys-by-name)
+### [Example 5: Remove Keys By Name](#example-5-remove-keys-by-name)
 
 **Context**
 
